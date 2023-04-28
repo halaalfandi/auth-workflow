@@ -1,7 +1,7 @@
 {
   "name": "10-e-commerce-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "[Auth Workflow](https://react-node-user-workflow-front-end.netlify.app/)",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -33,5 +33,6 @@
   },
   "engines": {
     "node": "14.x"
-  }
+  },
+  "keywords": []
 }
